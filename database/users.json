@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "Diyorbek",
+    "password": 29985,
+    "fullName": "Musulmonov Diyorbek",
+    "age": 18,
+    "email": "diyobrekmusulmonv@gmail.com",
+    "gender": "male"
+  },
+  {
+    "id": 2,
+    "username": "David",
+    "password": 11111,
+    "fullName": "David Laid",
+    "age": 26,
+    "email": "davidlaid@gmail.com",
+    "gender": "male"
+  }
+]
